@@ -2,5 +2,11 @@
 .pages__page {
   border: 1px solid #4491db;
   border-radius: 4px;
-  background: #fff;
+  background: #ffff;
+  box-shadow:  2px 2px #4491db;
+  padding:5px 10px;
+  color:#4491db;
+}
+li.country{
+  padding:10px;
 }
